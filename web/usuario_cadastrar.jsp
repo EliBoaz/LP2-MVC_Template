@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Cadastro de Usuário</h1>
-        <form actio="" method="GET">
+        <form action="" method="GET">
             id: <input type="text" name="id">
             Nome: <input type="text" name="nome">
             Login: <input type="text" name="login">
